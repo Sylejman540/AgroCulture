@@ -1,0 +1,182 @@
+.wrapper{
+    background-image: url(images/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+.banner-btn{
+    padding: 10px 20px;
+    background-color: #4BAF47;
+    color: white;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+
+.banner-btn:hover{
+    background-color: #53da4f;
+    cursor: pointer;
+}
+
+.banner-h1{
+    line-height: 1.5;
+}
+
+.market{
+    background-image: url(images/Background.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.market-h3{
+    font-family: cursive;
+    color: #EEC044;
+}
+
+.modern-h3{
+    color: #4BAF47;
+    font-family: cursive;
+    font-size: large;
+}
+
+.banner-btn1{
+    padding: 10px 20px;
+    background-color: #4BAF47;
+    color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.banner-btn1:hover{
+    background-color: #53da4f;
+    cursor: pointer;
+}
+
+p{
+    color: #878680;
+}
+
+.images{
+    background-color: white;
+}
+
+.end{
+    background-color: #EEC044;
+}
+
+.contact{
+    background-image: url(images/Background.png);
+    background-position: end;
+    background-size: cover;
+}
+
+.contact input{
+    border:  1px solid black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #878680;
+}
+
+.footer{
+    background-color: #24231D;
+}
+
+.footer-h1{
+    border-bottom: 3px solid #4BAF47;
+}
+
+.footer-span{
+    color: #EEC044;
+}
+
+.end1{
+    background-color: #1F1E17;
+    color: #A5A49A;
+}
+
+.featured-span{
+    color: #4BAF47;
+}
+
+.featured-add{
+    border:  3px solid #F7C35F;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.app{
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.app h1{
+    font-size: 25px;
+    color: #001e4d;
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+}
+
+.quiz{
+    padding: 20px 0;
+}
+
+.quiz h2{
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 600;
+}
+
+.btn{
+    background-color: #fff;
+    color: #222;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+
+#next-btn{
+    background-color: #4BAF47;
+    color: #fff;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+}
+
+.correct{
+    background-color: #9aeabc;
+}
+
+.incorrect{
+    background-color: #ff9393;
+}
+
+.nav-bar{
+    line-height: 2;
+}
+
+.wheat-background{
+    background-image: url(images/Wheats.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+  }
